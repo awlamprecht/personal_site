@@ -1,0 +1,8 @@
+---
+title: "About Me"
+---
+
+- __Name:__ Alexa
+- __Occupation:__ Grad Student
+
+
