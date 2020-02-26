@@ -1,8 +1,10 @@
 ---
-title: "About Me"
+title: "About Alexa"
 ---
 
-- __Name:__ Alexa
-- __Occupation:__ Grad Student
 
+I am a graduate student in the Integrative Biology program at the University of Chicago studying mammalian locomotion and functional morphology. My main interest is understanding changes in form and function of the appendicular skeleton.
 
+![](IMG_6151.jpg)
+
+My CV is available [here](Alexa Lamprecht CV website.pdf).
