@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+## Morphology of the Carnivoran Calcaneum using Spherical Harmonics (SPHARM)
+
+I attended the International Congress of Vertebrate Morphology (ICVM) meeting in July 2019 to present a project using spherical harmonics as a method to analyze general shape morphology. 
+
+A PDF of my poster is available [here](ICVM_2019_Poster.pdf).
+
+## Ruminant Limb Evolution
+
+For my dissertation, I am investigating changes in the ruminant appendicular skeleton to understand the impacts of ecological factors on limb lengthening. My project incorporates data from extant and extinct ruminants.
+
+
+## Tetrapod Gaits
+
+Quadrupedal tetrapods show an extraordinary diversity in the ways that they move in their environment. One of my rotation projects at the University of Chicago examined walking gaits of quadrupedal tetrapods to understand the evolutionary history of gait selection in this clade. Publication coming soon!
+
