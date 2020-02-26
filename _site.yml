@@ -1,14 +1,22 @@
 name: "alexas-website"
 output_dir: "."
 navbar:
-  title: "Alexa's Website"
+  title: "Alexa Lamprecht"
   left:
     - text: "Home"
-      href: index.html
-    - text: "About Me"
       href: about.html
     - text: "Projects"     
       href: projects.html
+    - text: "Outreach"
+      href: outreach.html
+    - text: "Contact"
+      href: contact.html
+      
+right:
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/AlexaLamprecht
+
 output:
   html_document:
     theme: darkly
+    css: style.css
